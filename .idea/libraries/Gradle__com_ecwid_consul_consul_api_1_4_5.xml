@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ecwid.consul:consul-api:1.4.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.ecwid.consul/consul-api/1.4.5/aed9a905144d8ef526e9636611f14d8ad7fdae4b/consul-api-1.4.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.ecwid.consul/consul-api/1.4.5/f3b8f03b1590bb3e9c110bf615c36b4240151824/consul-api-1.4.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

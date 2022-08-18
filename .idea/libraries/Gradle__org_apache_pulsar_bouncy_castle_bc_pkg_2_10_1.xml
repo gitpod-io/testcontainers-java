@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.pulsar:bouncy-castle-bc:pkg:2.10.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.apache.pulsar/bouncy-castle-bc/2.10.1/7791a5b7626c7aef52e5fda359e0e113cf44f79c/bouncy-castle-bc-2.10.1-pkg.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.apache.pulsar/bouncy-castle-bc/2.10.1/a232b25d7ecef18809212fbf8227ae15d1299539/bouncy-castle-bc-2.10.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

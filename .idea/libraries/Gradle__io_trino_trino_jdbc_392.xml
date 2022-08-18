@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.trino:trino-jdbc:392">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.trino/trino-jdbc/392/2cf515e411932502da83c9ff2bb28578a7a07e1b/trino-jdbc-392.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.trino/trino-jdbc/392/44cdf3b83aed03b2410beba5381fcd54ceb7e067/trino-jdbc-392-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

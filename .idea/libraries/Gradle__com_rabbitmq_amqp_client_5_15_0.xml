@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.rabbitmq:amqp-client:5.15.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.15.0/39b6429ad779befe3b963b4737838c63d04f7980/amqp-client-5.15.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.15.0/c44c8929869955266543b7ce21dc399ee618d1ac/amqp-client-5.15.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

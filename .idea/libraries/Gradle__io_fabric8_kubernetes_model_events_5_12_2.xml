@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.fabric8:kubernetes-model-events:5.12.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.fabric8/kubernetes-model-events/5.12.2/f5b6f4bbac51cfa778f59961ef3242dae7f401b2/kubernetes-model-events-5.12.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.fabric8/kubernetes-model-events/5.12.2/9eeaaa1dcf34d2d2fccf072145870019c0d363d8/kubernetes-model-events-5.12.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

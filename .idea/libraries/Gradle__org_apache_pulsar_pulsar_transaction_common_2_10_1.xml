@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.pulsar:pulsar-transaction-common:2.10.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.apache.pulsar/pulsar-transaction-common/2.10.1/5e7d92b97c364f8fee728ac66504a312454ef709/pulsar-transaction-common-2.10.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.apache.pulsar/pulsar-transaction-common/2.10.1/49337e254c3931124db2ca07ff6e5146120125ae/pulsar-transaction-common-2.10.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

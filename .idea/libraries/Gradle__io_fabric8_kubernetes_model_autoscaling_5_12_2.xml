@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.fabric8:kubernetes-model-autoscaling:5.12.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.fabric8/kubernetes-model-autoscaling/5.12.2/c1a7aa6a8e91c0eb656e421182cba873b7e509c3/kubernetes-model-autoscaling-5.12.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.fabric8/kubernetes-model-autoscaling/5.12.2/f2c5700e022fd55300908656e54cb2eaea7f877c/kubernetes-model-autoscaling-5.12.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

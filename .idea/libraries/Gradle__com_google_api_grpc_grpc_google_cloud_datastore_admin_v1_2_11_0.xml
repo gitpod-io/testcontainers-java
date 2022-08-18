@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.api.grpc:grpc-google-cloud-datastore-admin-v1:2.11.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.google.api.grpc/grpc-google-cloud-datastore-admin-v1/2.11.0/e4c0927317be8a3252e4dd19e9a21ac00a7d12c3/grpc-google-cloud-datastore-admin-v1-2.11.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.google.api.grpc/grpc-google-cloud-datastore-admin-v1/2.11.0/ce5b0cd29199dd6f1c8a50ed70cc39592a0fb705/grpc-google-cloud-datastore-admin-v1-2.11.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

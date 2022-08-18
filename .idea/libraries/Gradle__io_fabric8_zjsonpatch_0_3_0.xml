@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.fabric8:zjsonpatch:0.3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.fabric8/zjsonpatch/0.3.0/d3ebf0f291297649b4c8dc3ecc81d2eddedc100d/zjsonpatch-0.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.fabric8/zjsonpatch/0.3.0/833e719cb0a8571eb0e825d09d4f118baf5fe9f6/zjsonpatch-0.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.fabric8:kubernetes-model-metrics:5.12.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.fabric8/kubernetes-model-metrics/5.12.2/cf3716d8c479db77b6fd535e92be448f40cbfb9/kubernetes-model-metrics-5.12.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.fabric8/kubernetes-model-metrics/5.12.2/e2d636a6a4b7cd0b2ba9ef58c6937f139f1f8bca/kubernetes-model-metrics-5.12.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

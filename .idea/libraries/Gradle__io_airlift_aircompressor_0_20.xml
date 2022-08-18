@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.airlift:aircompressor:0.20">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.airlift/aircompressor/0.20/de3ff8b5f9b9128d7c2beb0b4e79d6dc646f1125/aircompressor-0.20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.airlift/aircompressor/0.20/943f03d3ab5d3d503e7ae6feb34ba1fdc31e802a/aircompressor-0.20-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

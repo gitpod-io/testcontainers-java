@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.seancfoley:ipaddress:5.3.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.github.seancfoley/ipaddress/5.3.3/ddca4fcbe2815dea7983fc9003bae6980c80a756/ipaddress-5.3.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.github.seancfoley/ipaddress/5.3.3/c258e73254dca0d6070d1ff15b327fad3df5ec6c/ipaddress-5.3.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

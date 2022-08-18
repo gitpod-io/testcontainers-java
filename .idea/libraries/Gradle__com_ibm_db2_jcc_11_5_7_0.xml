@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ibm.db2:jcc:11.5.7.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.ibm.db2/jcc/11.5.7.0/d018418a1b90c2a4c4650e589a19b2c0895872b/jcc-11.5.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

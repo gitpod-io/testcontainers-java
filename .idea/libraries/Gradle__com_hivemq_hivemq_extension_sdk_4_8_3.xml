@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.hivemq:hivemq-extension-sdk:4.8.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.hivemq/hivemq-extension-sdk/4.8.3/97ff25a3812b5a25863a0f3f5c9df29f2f87484/hivemq-extension-sdk-4.8.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.hivemq/hivemq-extension-sdk/4.8.3/39cbb20e54d4cdcaaeb0ea47d24ed6258e03784d/hivemq-extension-sdk-4.8.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

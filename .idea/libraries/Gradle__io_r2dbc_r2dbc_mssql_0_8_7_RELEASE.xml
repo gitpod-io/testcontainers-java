@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.r2dbc:r2dbc-mssql:0.8.7.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.r2dbc/r2dbc-mssql/0.8.7.RELEASE/87361426194e010cd0a3af936ba18cad3eabb364/r2dbc-mssql-0.8.7.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.r2dbc/r2dbc-mssql/0.8.7.RELEASE/26ef0e5c6203526fd962696b0315575b4234ecc7/r2dbc-mssql-0.8.7.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

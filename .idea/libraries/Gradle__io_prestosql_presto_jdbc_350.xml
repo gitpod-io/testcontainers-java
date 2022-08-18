@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.prestosql:presto-jdbc:350">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.prestosql/presto-jdbc/350/5aa7cf471b198e202c65426af67c78a245fb161d/presto-jdbc-350.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.prestosql/presto-jdbc/350/c481c32f789ecec5830841c9898eb858ca978279/presto-jdbc-350-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.fabric8:kubernetes-model-certificates:5.12.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.fabric8/kubernetes-model-certificates/5.12.2/ca8e28f03eb62637fa63b1c4a10089ffae3ce951/kubernetes-model-certificates-5.12.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.fabric8/kubernetes-model-certificates/5.12.2/c6e8bb38b58da35d63656a5c206ea90b5d9141e0/kubernetes-model-certificates-5.12.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

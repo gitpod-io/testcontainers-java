@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.neo4j.driver:neo4j-java-driver:4.4.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.neo4j.driver/neo4j-java-driver/4.4.9/abd9c64fcf30ea429b50fb0e82390454af914301/neo4j-java-driver-4.4.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.neo4j.driver/neo4j-java-driver/4.4.9/99b6db1c20c139decee128a74ec4b888ab08e558/neo4j-java-driver-4.4.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

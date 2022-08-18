@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.clickhouse:clickhouse-client:0.3.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.clickhouse/clickhouse-client/0.3.2/16444393d4b5c22597ddb7c6d5860f25b65ae13b/clickhouse-client-0.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.clickhouse/clickhouse-client/0.3.2/a49f94a008630329738e366c6e7d32c2f1a19e2a/clickhouse-client-0.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.profesorfalken:jPowerShell:1.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.profesorfalken/jPowerShell/1.9/22a7cdf6e460b9738e751bef9634b1b7cee55130/jPowerShell-1.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.profesorfalken/jPowerShell/1.9/81aa0e731ecd4073aa1eb394b0a2200103eab1ae/jPowerShell-1.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

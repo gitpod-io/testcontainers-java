@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.pulsar:pulsar-client-api:2.10.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.apache.pulsar/pulsar-client-api/2.10.1/90a8962f431e471298cbb166a8ca5e878bd0d672/pulsar-client-api-2.10.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.apache.pulsar/pulsar-client-api/2.10.1/35de217a4dd27d99be5a6a03bf738ea9360d0760/pulsar-client-api-2.10.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

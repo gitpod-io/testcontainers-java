@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: eu.rekawek.toxiproxy:toxiproxy-java:2.1.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/eu.rekawek.toxiproxy/toxiproxy-java/2.1.7/d5e31897c2903ae7e67ef0398c7a9abcfdcdb25c/toxiproxy-java-2.1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/eu.rekawek.toxiproxy/toxiproxy-java/2.1.7/a18c02423da62ed756ea7015bebb6147781ec3da/toxiproxy-java-2.1.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

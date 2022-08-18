@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.orientechnologies:orientdb-gremlin:3.0.18">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.orientechnologies/orientdb-gremlin/3.0.18/db70ed4e132db53220fe1fd117822654d411569f/orientdb-gremlin-3.0.18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.orientechnologies/orientdb-gremlin/3.0.18/fd6b1a8cfeaafe4815f58365c4117329e1525dfb/orientdb-gremlin-3.0.18-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

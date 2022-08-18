@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.neo4j:openCypher-frontend-1:3.4.18">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.neo4j/openCypher-frontend-1/3.4.18/3ce2826c13d10ced4d810b39478335573ac4584f/openCypher-frontend-1-3.4.18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.neo4j/openCypher-frontend-1/3.4.18/b35aaaed103b099051d661b945f586df89799426/openCypher-frontend-1-3.4.18-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

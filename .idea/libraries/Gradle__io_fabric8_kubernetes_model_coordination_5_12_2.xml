@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.fabric8:kubernetes-model-coordination:5.12.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.fabric8/kubernetes-model-coordination/5.12.2/42e16157174ed0beee02b5d4f1635dd3c0f1cbd6/kubernetes-model-coordination-5.12.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.fabric8/kubernetes-model-coordination/5.12.2/1372180998baab6a9be21c1d59dd0bdffc4c789f/kubernetes-model-coordination-5.12.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

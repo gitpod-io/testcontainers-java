@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.api.grpc:proto-google-common-protos:2.9.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-common-protos/2.9.2/e59de564686b050b1a292e6c2d6786e55f113f55/proto-google-common-protos-2.9.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-common-protos/2.9.2/ffca3229f8359e04d387b5c61a4d8932fb836e09/proto-google-common-protos-2.9.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

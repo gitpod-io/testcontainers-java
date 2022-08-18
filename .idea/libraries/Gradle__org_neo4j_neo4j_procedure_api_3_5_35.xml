@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.neo4j:neo4j-procedure-api:3.5.35">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.neo4j/neo4j-procedure-api/3.5.35/5d491777ec580b94fbabfb39bcf9d3a4454e70ee/neo4j-procedure-api-3.5.35.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.neo4j/neo4j-procedure-api/3.5.35/21d36939c168a5f3d3410a57d20c8a79d5e98341/neo4j-procedure-api-3.5.35-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

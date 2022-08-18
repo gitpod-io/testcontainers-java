@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.fabric8:kubernetes-model-scheduling:5.12.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.fabric8/kubernetes-model-scheduling/5.12.2/86a8f293ef09260f7f326fb23728f2689e9d4f5d/kubernetes-model-scheduling-5.12.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.fabric8/kubernetes-model-scheduling/5.12.2/98d41c5e4ed4ec986b4b5593cba97e052767fa3d/kubernetes-model-scheduling-5.12.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

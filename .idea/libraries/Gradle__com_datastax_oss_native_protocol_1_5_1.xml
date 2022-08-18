@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.datastax.oss:native-protocol:1.5.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.datastax.oss/native-protocol/1.5.1/97e812373a5fe7667384e7ad67819d2c71878bf8/native-protocol-1.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.datastax.oss/native-protocol/1.5.1/ce78d7f5a679a8f42ad94719472e1ad2d6b513c3/native-protocol-1.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

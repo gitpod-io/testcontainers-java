@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.vibur:vibur-object-pool:25.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.vibur/vibur-object-pool/25.0/8412049bfba1a65acf239efe74da811397f668c7/vibur-object-pool-25.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.vibur/vibur-object-pool/25.0/5afb42796724a783276b96593476e7727a426452/vibur-object-pool-25.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.fabric8:kubernetes-model-networking:5.12.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.fabric8/kubernetes-model-networking/5.12.2/6a9fa09853a6531e4cfc9414407bf7e3ca2036e3/kubernetes-model-networking-5.12.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.fabric8/kubernetes-model-networking/5.12.2/9713d00aa1ffbb4d5968ebb84f0ec8475ea816a8/kubernetes-model-networking-5.12.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

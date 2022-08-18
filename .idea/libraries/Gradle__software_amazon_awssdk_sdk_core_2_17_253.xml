@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: software.amazon.awssdk:sdk-core:2.17.253">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/software.amazon.awssdk/sdk-core/2.17.253/f5223f75601a9ccc535f77ad1dbfc13828983006/sdk-core-2.17.253.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/software.amazon.awssdk/sdk-core/2.17.253/cf35279e633a475cc8cf0d76c9511733887f642e/sdk-core-2.17.253-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ongres.stringprep:saslprep:1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.ongres.stringprep/saslprep/1.1/eaf05b6446126f95de2f183b91751a854c2fc0bc/saslprep-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.ongres.stringprep/saslprep/1.1/4839e3ce022daa10ac949e308b23c693410641a/saslprep-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

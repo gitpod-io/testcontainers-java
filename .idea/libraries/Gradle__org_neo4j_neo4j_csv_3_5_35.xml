@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.neo4j:neo4j-csv:3.5.35">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.neo4j/neo4j-csv/3.5.35/2b29c724cace32fbd83755522c0481a43ebfa082/neo4j-csv-3.5.35.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.neo4j/neo4j-csv/3.5.35/7e100d558aa08d04e76df507ba43fa6164ba85f2/neo4j-csv-3.5.35-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

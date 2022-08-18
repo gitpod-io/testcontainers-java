@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.neo4j:neo4j-concurrent:3.5.35">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.neo4j/neo4j-concurrent/3.5.35/28f7d5b1775d55b44606d1af649dd162d9f7f4ad/neo4j-concurrent-3.5.35.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.neo4j/neo4j-concurrent/3.5.35/3755cfa18756d2b120dfdfbf38f7f264d16def60/neo4j-concurrent-3.5.35-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.fabric8:kubernetes-model-storageclass:5.12.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.fabric8/kubernetes-model-storageclass/5.12.2/a229853ab4def33c9fe0565cffdc3742f9ea84af/kubernetes-model-storageclass-5.12.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.fabric8/kubernetes-model-storageclass/5.12.2/363c8d44aec2167d5a3f273827b52b4592d4e978/kubernetes-model-storageclass-5.12.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

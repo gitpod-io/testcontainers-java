@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.bettercloud:vault-java-driver:5.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.bettercloud/vault-java-driver/5.1.0/2deb4f84330a74b0161adf33f1928fbd1dec387d/vault-java-driver-5.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.bettercloud/vault-java-driver/5.1.0/3d1e360caa9bbdb5f742c7c47f3641ed35027a71/vault-java-driver-5.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

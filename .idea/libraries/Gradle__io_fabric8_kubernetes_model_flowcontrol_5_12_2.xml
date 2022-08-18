@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.fabric8:kubernetes-model-flowcontrol:5.12.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.fabric8/kubernetes-model-flowcontrol/5.12.2/bec45279f80fb969e9898380014113416f65a136/kubernetes-model-flowcontrol-5.12.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.fabric8/kubernetes-model-flowcontrol/5.12.2/12636f7435f24f6387292c3461201df53085a88e/kubernetes-model-flowcontrol-5.12.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

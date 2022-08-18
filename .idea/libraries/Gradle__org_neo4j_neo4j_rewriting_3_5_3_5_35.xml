@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.neo4j:neo4j-rewriting-3.5:3.5.35">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.neo4j/neo4j-rewriting-3.5/3.5.35/dd522b8ae638c9678c8ee1b31c666d20e4319c33/neo4j-rewriting-3.5-3.5.35.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.neo4j/neo4j-rewriting-3.5/3.5.35/5763cb3fa519ea683da8afafa932f03177f1dff4/neo4j-rewriting-3.5-3.5.35-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

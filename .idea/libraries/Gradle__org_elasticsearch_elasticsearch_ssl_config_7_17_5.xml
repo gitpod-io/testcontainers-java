@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.elasticsearch:elasticsearch-ssl-config:7.17.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.elasticsearch/elasticsearch-ssl-config/7.17.5/e8f0e9a6261c1a7fd9af6e87f1d23560d0366dae/elasticsearch-ssl-config-7.17.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.elasticsearch/elasticsearch-ssl-config/7.17.5/8305c267439ba4747f45f60c2031b0ea4d18455/elasticsearch-ssl-config-7.17.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.r2dbc:r2dbc-spi:0.8.6.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.r2dbc/r2dbc-spi/0.8.6.RELEASE/9940d38ab7ea27657a4477f50c496451e09b01f2/r2dbc-spi-0.8.6.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.r2dbc/r2dbc-spi/0.8.6.RELEASE/6355d409ec4dcf144f8e0509f96fa465b4dee7a5/r2dbc-spi-0.8.6.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.neo4j:neo4j-parser-3.5:3.5.35">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.neo4j/neo4j-parser-3.5/3.5.35/42f3e3c18bc2a925630185e3aa400cf3bf6aaf2f/neo4j-parser-3.5-3.5.35.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.neo4j/neo4j-parser-3.5/3.5.35/7fa3c22909d88e2e66f8c110ebf814364f569f0c/neo4j-parser-3.5-3.5.35-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.glassfish.main.external:trilead-ssh2-repackaged:4.1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.glassfish.main.external/trilead-ssh2-repackaged/4.1.2/5b72873bd34dff3fda779ade0b9a3e3a4aea94be/trilead-ssh2-repackaged-4.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.glassfish.main.external/trilead-ssh2-repackaged/4.1.2/9106c66e004953cbaa3134ed48c09d4a4a10fc1c/trilead-ssh2-repackaged-4.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

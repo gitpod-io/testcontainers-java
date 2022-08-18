@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.azure:azure-cosmos:4.34.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.azure/azure-cosmos/4.34.0/8b067b1d45a1a0c01ca548cf0ef225d4db2e56b4/azure-cosmos-4.34.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.azure/azure-cosmos/4.34.0/dfc8d2f083ecf910e2642bac6443736449c30c55/azure-cosmos-4.34.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

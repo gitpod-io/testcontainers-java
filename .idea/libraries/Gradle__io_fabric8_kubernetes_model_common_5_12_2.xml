@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.fabric8:kubernetes-model-common:5.12.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.fabric8/kubernetes-model-common/5.12.2/676bfbf1aaffb7780e1b24b116914ae735103223/kubernetes-model-common-5.12.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.fabric8/kubernetes-model-common/5.12.2/e6b6906443cef6ae78ceb2b0c2d6522c63abc58d/kubernetes-model-common-5.12.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

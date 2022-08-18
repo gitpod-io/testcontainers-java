@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jctools:jctools-core:2.1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.jctools/jctools-core/2.1.2/8ec46a6a26e7c1c7e57e2590a043238ffc462144/jctools-core-2.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.jctools/jctools-core/2.1.2/ec9a488d3cab6ab036851e833b8950d800fe6dd4/jctools-core-2.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

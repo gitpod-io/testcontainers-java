@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.r2dbc:r2dbc-postgresql:0.8.12.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.r2dbc/r2dbc-postgresql/0.8.12.RELEASE/144c00bed4a8c2622dd4a32f4c470c4768d3921d/r2dbc-postgresql-0.8.12.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.r2dbc/r2dbc-postgresql/0.8.12.RELEASE/f15071105bc9d56c29063d288fcc102768870b8b/r2dbc-postgresql-0.8.12.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

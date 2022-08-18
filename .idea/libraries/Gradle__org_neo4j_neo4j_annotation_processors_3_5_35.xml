@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.neo4j:neo4j-annotation-processors:3.5.35">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.neo4j/neo4j-annotation-processors/3.5.35/f1ebca7ed20bf0278a7f1dfd913a3d9c8f05b168/neo4j-annotation-processors-3.5.35.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.neo4j/neo4j-annotation-processors/3.5.35/4405ae527b40053c292210b59fe498ce31a22054/neo4j-annotation-processors-3.5.35-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

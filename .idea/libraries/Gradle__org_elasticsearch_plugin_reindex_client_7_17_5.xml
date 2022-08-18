@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.elasticsearch.plugin:reindex-client:7.17.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.elasticsearch.plugin/reindex-client/7.17.5/912e8b24bf201508942ada76fc19e7556d5c0930/reindex-client-7.17.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.elasticsearch.plugin/reindex-client/7.17.5/6eafef8f08146c20b78f6c1dcebe8134d276fe17/reindex-client-7.17.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

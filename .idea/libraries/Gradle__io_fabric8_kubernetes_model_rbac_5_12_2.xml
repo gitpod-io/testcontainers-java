@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.fabric8:kubernetes-model-rbac:5.12.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.fabric8/kubernetes-model-rbac/5.12.2/2e7d70c71db0a155d4a91a617831725279e26fab/kubernetes-model-rbac-5.12.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/io.fabric8/kubernetes-model-rbac/5.12.2/6e96d6d2f158ec5d0c0a7014bba7b2321e10f37e/kubernetes-model-rbac-5.12.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

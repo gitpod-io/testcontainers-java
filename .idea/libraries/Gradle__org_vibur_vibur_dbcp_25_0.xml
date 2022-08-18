@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.vibur:vibur-dbcp:25.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.vibur/vibur-dbcp/25.0/f03f9159bf6e284bef3090797005f1e426a1ca37/vibur-dbcp-25.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.vibur/vibur-dbcp/25.0/242dbeb701a8f1f9518709d02b806af04f047e2e/vibur-dbcp-25.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ongres.scram:common:2.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.ongres.scram/common/2.1/43dfdba15afc165a2a5da75f3ef1a2f5f7300f61/common-2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.ongres.scram/common/2.1/876a9e5a013fe1569ef16ce8210f2e365b4fd454/common-2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

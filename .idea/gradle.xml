@@ -66,6 +66,7 @@
             <option value="$PROJECT_DIR$/test-support" />
           </set>
         </option>
+        <option name="resolveExternalAnnotations" value="false" />
       </GradleProjectSettings>
     </option>
   </component>

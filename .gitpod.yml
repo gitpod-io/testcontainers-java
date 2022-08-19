@@ -1,5 +1,4 @@
 jetbrains:
   intellij:
-    vmoptions: -Dandroid.gradle.project.startup.activity.disabled=true -Dandroid.sdk.local.properties.update.disabled=true -Dexternal.system.auto.import.disabled=true
     prebuilds:
       version: stable

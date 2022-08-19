@@ -2,3 +2,10 @@ jetbrains:
   intellij:
     prebuilds:
       version: stable
+
+tasks:
+  - command: |
+      file="/workspace/.config/JetBrains/RemoteDev-IU/_workspace_testcontainers-java/disabled_plugins.txt"
+      echo "com.android.tools.design" > $file
+      echo "org.jetbrains.android" > $file
+      cat $file
